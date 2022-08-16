@@ -1,6 +1,11 @@
+import Accordian from "./Accordian";
 import "./App.css";
 function App() {
-  return <div>Hello</div>;
+  return (
+    <>
+      <Accordian />
+    </>
+  );
 }
 
 export default App;
